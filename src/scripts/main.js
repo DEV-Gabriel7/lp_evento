@@ -1,1 +1,1 @@
-console.log("Ola otario")
+AOS.init();
